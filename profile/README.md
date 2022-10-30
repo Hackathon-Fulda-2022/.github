@@ -1,12 +1,5 @@
-## Hi there 👋
+# Wellcome DT Health
 
-<!--
+The smart hospital room with AI Anna 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![alt text](https://github.com/Hackathon-Fulda-2022/.github/blob/2acc1f92d1dd5e4341e5c875b7995b0d80b45d16/github_organisation_topic_.png?raw=true)
