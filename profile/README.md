@@ -1,4 +1,4 @@
-# Wellcome DT Health
+# Welcome DT Health
 
 The smart hospital room with AI Anna 
 
